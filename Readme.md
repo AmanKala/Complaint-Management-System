@@ -1,7 +1,7 @@
 Complaint Management System 
 
-Web application developed in PHP Codeigniter Framework
-developed for Gujarat vidyapith Estate department.
+Web application developed in PHP Codeigniter Framework.
+PHP Version: 5.6.19
 
 Features:
 
@@ -20,8 +20,3 @@ Engineer
 1. View assigned complaints
 2. Update status of complaint
 
-Other features
-1. Send E-mail
-   1. To Estate department when new complaint registere
-   2. To Engineer when complaint assigned to him
-   3. To user when complaint status change
